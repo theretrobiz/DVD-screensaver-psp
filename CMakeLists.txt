@@ -29,7 +29,7 @@ target_compile_options(${PROJECT_NAME} PRIVATE
 
 create_pbp_file(
 TARGET          ${PROJECT_NAME}
-TITLE           “DVD Screensaver”
+TITLE           "DVD Screensaver"
 ICON_PATH       NULL
 BACKGROUND_PATH NULL
 PREVIEW_PATH    NULL
